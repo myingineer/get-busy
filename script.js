@@ -25,6 +25,7 @@ function removeError() {
 };
 
 
+
 /*
     This function calls the API and displays it in its respective field
 */

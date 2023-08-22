@@ -16,14 +16,12 @@ body {
 }
 
 .main-container {
-    /* border: 2px solid salmon; */
     height: 90%;
     width: 90%;
     position: relative;
 }
 
 .main-container h1 {
-    /* border: 1px solid salmon; */
     width: max-content;
     margin: auto;
     margin-top: 30px;
@@ -63,7 +61,6 @@ button:active {
 }
 
 .all-boxes {
-    /* border: 1px solid violet; */
     display: flex;
     position: absolute;
     bottom: 0;
