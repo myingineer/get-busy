@@ -70,6 +70,14 @@ button:active {
     width: 100%;
 }
 
+h6 {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    display: none;
+}
+
 .box {
     border: 1px dashed red;
     text-align: center;
