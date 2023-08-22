@@ -1,0 +1,1 @@
+This is a basic project with bored api that helps you get busy whenever you're bored
