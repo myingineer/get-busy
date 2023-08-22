@@ -27,12 +27,15 @@ async function generateBoredApi() {
         accessibilityDisplay.innerText = response.accessibility;
         priceDisplay.innerText = response.price;
         linkDisplay.innerText = response.link;
-        console.log(response);
     } catch (error) {
         console.log(`We ran into a problem check back later ${error}`);
     };
 };
 
+
+/*
+    This button makes the function run and allows all the code to work
+*/
 clickMeBtn.addEventListener('click', () => {
     generateBoredApi();
 });
